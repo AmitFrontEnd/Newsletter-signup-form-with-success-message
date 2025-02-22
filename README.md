@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML, CSS, and JavaScript. It includes form validation and displays a success message upon submission.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/Newsletter-signup-form-with-success-message/)
+🔗 [View Live Site](https://amitfrontend.github.io/Newsletter-signup-form-with-success-message/)
 
 ## 📌 Technologies Used
 - HTML
